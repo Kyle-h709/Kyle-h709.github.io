@@ -18,6 +18,10 @@ body {
   border-radius: 0px;
 }
 
+img {
+  width: 200px;
+}
+
 h2, h3 {color: #919191;
         padding:5%;
 }
@@ -64,10 +68,7 @@ auto=format&fit=crop&w=1052&q=80"/>
             
         
                  </blockquote>
-          
-          <h3 >Click here to see Fransisco Lindor MLB career statistics <a  href="https://www.baseball-reference.com/players/l/lindofr01.shtml" target="_blank" style="color:#FCAF24 ;">  Fransisco Lindor Statistics </a>. &#x1F60B
-          
-          </h3>
+        
        
       
          
